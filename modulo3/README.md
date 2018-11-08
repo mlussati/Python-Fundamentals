@@ -32,7 +32,7 @@ Para imprimir uma data, podemos utilizar um atributo `strftime`.
 ```python
 import datetime
 
-now = datetime.datetime.now())
+now = datetime.datetime.now()
 print(now.strftime("%d/%m/%y")) # (07/11/18)
 
 ```
