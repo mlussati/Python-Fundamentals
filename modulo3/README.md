@@ -18,7 +18,7 @@ Neste módulo vamos desenvolver habilidade de persistir os dados tanto por aquiv
 > 7. [Lista de Exercício](#11-lista-de-exercício)
 
 ## 1 Date e Time
-Para manipulação de data e hora, vamos um módulo interno do Python `datetime`. Com esse módulo podemos de forma simples manipular dados relacionando a data e hora.
+Para manipulação de data e hora, vamos usar um módulo interno do Python `datetime`. Com esse módulo podemos de forma simples manipular dados relacionando a data e hora.
 
 
 ```python
