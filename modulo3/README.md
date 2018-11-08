@@ -77,8 +77,7 @@ Também podemos converter uma string em `datetime`.
 from datetime import datetime
 
 data_e_hora_em_texto = '01/03/2018 12:30'
-data_e_hora = datetime.strptime(data_em_texto, ‘%d/%m/%Y %H:%M’)
-
+data_e_hora = datetime.strptime(data_e_hora_em_texto, '%d/%m/%Y %H:%M')
 ```
 ## 2 Trabalhando com Arquivos
 Podemos tornar os nossos programas muito mais interessante quando podemos gravar e ler conteúdo de arquivos.
